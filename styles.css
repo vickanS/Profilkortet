@@ -17,10 +17,11 @@ align-items: center;
 .roundedimg {
     height: 50px;
     width: 50px;
-    border-radius: 100%;
-    object-fit: cover;
     margin-top: 75px;
+    display: flex;
+    justify-content: center;
 }
 .rounded-image {
-border-radius: 100%;
+    border-radius: 100%;
+    object-fit: cover;
 }
