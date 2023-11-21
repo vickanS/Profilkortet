@@ -11,8 +11,15 @@ align-items: center;
     width: 700px;
     background-color: whitesmoke;
     display: flex;
+    flex-direction: row;
+    flex-direction: column;
 }
-
-.rounded-image {
+.roundedimg {
+    height: 50px;
+    width: 50px;
     border-radius: 100%;
+    object-fit: cover;
+}
+.rounded-image {
+border-radius: 100%;
 }
