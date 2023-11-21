@@ -11,13 +11,12 @@ align-items: center;
     width: 700px;
     background-color: whitesmoke;
     display: flex;
-    justify-content: center;
-    align-items: flex-start;
+    flex-direction: column;
+    justify-content:first baseline;
+    align-items: center;
 }
 .roundedimg {
-    margin-top: 75px;
-    display: flex;
-    justify-content: center;
+margin-top: 55px;
 }
 .rounded-image {
     border-radius: 100%;
