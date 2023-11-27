@@ -36,13 +36,11 @@ margin-top: 120px;
     line-height: 0%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(157, 157, 157);
-    
 }
 
 .button {
     margin-top: auto;
     margin-bottom: 35px;
-
 }
 
 .button button {
@@ -62,4 +60,3 @@ margin-top: 120px;
    font-size: 35px;
    color: lightgrey;
 }
-
